@@ -38,8 +38,8 @@ C++ and Python developer. Currently working on my own game engine — **FountEng
 <a href="https://github.com/ImHartash/Nexo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImHartash&repo=Nexo&theme=dark&bg_color=1b2838&border_color=2a475e&title_color=66c0f4&icon_color=66c0f4&text_color=c7d5e0" />
 </a>
-<a href="https://github.com/ImHartash/FountEngine_SDK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImHartash&repo=FountEngine_SDK&theme=dark&bg_color=1b2838&border_color=2a475e&title_color=66c0f4&icon_color=66c0f4&text_color=c7d5e0" />
+<a href="https://github.com/ImHartash/FountEngine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImHartash&repo=FountEngine&theme=dark&bg_color=1b2838&border_color=2a475e&title_color=66c0f4&icon_color=66c0f4&text_color=c7d5e0" />
 </a>
 
 </div>
